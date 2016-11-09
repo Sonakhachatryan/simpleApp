@@ -1,0 +1,66 @@
+.nav > li > a:focus, .nav > li > a:hover {
+  background: #ffffff;
+  color: #b0c694;
+}
+
+.nav > li > a:active {
+  background: #ffffff !important;
+  color: #b0c694 !important;
+}
+
+header nav .menu .right-menu ul li a:hover {
+  background: #ffffff;
+  color: #b0c694;
+}
+
+section .content .service .service-content .block:hover .overlay {
+  display: block;
+}
+
+section .content .service .service-content .block:hover h4 {
+  color: #ffffff;
+}
+
+section .content .service .service-content > .block > .overlay .border-hover .bottom-block:hover {
+  color: #ffffff;
+}
+
+footer .footer-content a:hover {
+  color: #697658;
+  text-decoration: none;
+}
+
+footer .footer-content .logo-links .logo-links-content a:hover i {
+  border: 1px solid #697658;
+}
+
+.contact-page .contact-form .form-content #send:hover {
+  width: 120px;
+  border-bottom: 2px solid #b0c694;
+}
+
+.profile-page .content .all-content .profile-content .slide-bar .tabs ul li:hover {
+  background: #ffffff;
+  border-left: 7px solid #b0c694;
+}
+
+.profile-page .content .all-content .profile-content .slide-bar .tabs ul li:hover .tab {
+  color: #b0c694;
+}
+
+header nav #profile-menu-dropdown ul li a {
+  background: transparent;
+}
+
+.profile-page .content .all-content .profile-content .slide-bar .tabs ul li:active {
+  background: #ffffff;
+  border-left: 7px solid #b0c694;
+}
+
+.profile-page .all-content .profile-content .tabs-content .tab1-content .info-blocks .tabs-horizontal ul li a:hover {
+  color: #a0b59f;
+}
+
+.profile-page .all-content .profile-content .tabs-content .tab1-content .info-blocks .tabs-horizontal ul li :hover {
+  border-bottom-color: #a0b59f;
+}

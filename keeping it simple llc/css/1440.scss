@@ -1,0 +1,54 @@
+@media screen and (max-width: 1800px) {
+  .home-page .back .back-content{
+    width: 580px;
+    padding: 20px 10px 30px 25px;
+    right: 11%;
+  }
+
+  .home-page .back .back-content h2 {
+
+    font-size: 30px;
+
+  }
+
+
+  .home-page .back .back-content h1{
+
+    font-size:48px;
+
+  }
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 1540px) {
+  .home-page .back .back-content{
+
+    right: 7%;
+  }
+
+
+
+
+}
+
+
+@media screen and (max-width: 1440px) {
+  .home-page .back .back-content{
+
+    right: 3%;
+    width: 540px;
+  }
+
+  .home-page .back .back-content h2 {
+
+    font-size: 24px;
+
+  }
+
+
+}

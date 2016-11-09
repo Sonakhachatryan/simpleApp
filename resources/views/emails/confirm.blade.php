@@ -1,0 +1,1 @@
+<h1>Press link to confirm your account <a href="{{$url}}">{{$url}}</a>.</h1>
